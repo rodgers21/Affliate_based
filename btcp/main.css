@@ -1,0 +1,61 @@
+#first{
+text-align: center;
+}
+body{
+	color:black;
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+nav{
+	background-color: red;
+}
+.card-img-top{
+	width:100px;
+}
+#img{
+	background: linear-gradient(to right, rgba(0,0,0,.1), rgba(0,0,0,.9)) url(i.jpg);
+}
+nav{
+	background-color: pink;
+}
+button{
+	margin: 15px;
+}
+#header1{
+	background-image: url(bg14.jpg); 
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center;
+}
+#carousel{
+	background-color: black;
+}
+
+.page-container {
+margin: 120px auto 0 auto;
+}
+#modalcontent{
+	background-image: url(r.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+}
+input{
+	width: 100%
+	padding: 12px 20px;
+	margin: 30px 0;
+	border: 2px solid blue;
+	border-radius: 4px;
+	display: block;
+}
+.card{
+	min-height: 200px;
+}
+#last{
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
